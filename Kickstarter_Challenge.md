@@ -10,14 +10,14 @@ The purpose of the project is to analyze crowdfunding data obtained from Kicksta
 The Kickstarter data set used in this analysis contains 4114 records on campaigns launched from 2009 to 2017. The data set was loaded and processed in Excel. The first analysis was done to determine correlation, if any, between outcomes and the launch dates of the campaigns. The second analysis was done to determine the correlation between the outcomes and goals of a campaign. 
 
 ### Analysis of Outcomes Based on Launch Date
-![Theatre Outcomes Versus Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+![Theatre Outcomes Versus Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 
 This graph shows the number of outcomes of campaigns by month from years 2009 to 2017. However the data set for the year 2017 is not relevant since only the data for January and February are available, making the data set is incomplete. However, with or without taking 2017 in consideration, the month of May and June have relatively more successful campaigns than failed campaigns. From this graph, it can also be concluded that campaigns starting in the months of October to December have more failed campaigns than the rest of the year. 
 
 
 ### Analysis of Outcomes Based on Goals
-![Theatre Outcomes Versus Goals](resources/Outcomes_vs_Goals.png)
+![Theatre Outcomes Versus Goals](Resources/Outcomes_vs_Goals.png)
 
 This graph shows the percentage of successful campaigns in the range of the goal amounts. It is evident from the graph that certain ranges have higher percentage of successful campaigns. The goal amount upto 5000 dollars is most likely to be successful than higher goal amounts. Additionally, the range of 35,000 dollars to 45,000 dollars also appears to have a higher ratio of sucessful campaigns, however, the total number of campaigns conducted in this range is significantly low which makes the data in this region of the graph insignificant to this study.   
 
