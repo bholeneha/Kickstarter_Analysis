@@ -14,7 +14,7 @@ The [Kickstarter data set](Kickstarter_Challenge.xlsx) used in this analysis con
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Table of Theatre Outcomes Versus Launch Date](Resources/Extra/Theater_Outcomes_vs_Launch_Table.png) 
+![Table of Theatre Outcomes Versus Launch Date](Resources/Extra/Theater_Outcomes_vs_Launch_Table.PNG) 
 ![Graph of Theatre Outcomes Versus Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 The table shows May and June have the highest number for successful campaigns. This is visually evident in the graph as well. The graph shows the ratio of successful to failed compaigns is also highest in May and June, almost double the successful campaigns than failed campaigns. Additionally, it can also be concluded that the ratio of successful campaigns to failed campaigns is lowest in the months of October to December than the rest of the year. 
