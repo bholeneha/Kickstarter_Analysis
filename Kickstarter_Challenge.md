@@ -27,18 +27,17 @@ To conclude, the chances of a theatre campaign being successful is highest in Ma
 ![Table of Theatre Outcomes Versus Goals](Resources/Extra/Outcomes_vs_Goals_Table.PNG)
 ![Graph of Theatre Outcomes Versus Goals](Resources/Outcomes_vs_Goals.png)
 
-This graph shows the percentage of successful campaigns in the range of the goal amounts. It is evident from the graph that certain ranges have higher percentage of successful campaigns. The goal amount upto 5000 dollars is most likely to be successful than higher goal amounts. Additionally, the range of 35,000 dollars to 45,000 dollars also appears to have a higher ratio of sucessful campaigns, however, the total number of campaigns conducted in this range is significantly low as evident in the table (total of 9 campaigns). This makes the data in this region of the graph insignificant to this study.   
+ It is evident from the graph that certain ranges have higher percentage of successful campaigns. A campaign with goal amount upto 5000 dollars is most likely to be successful than higher goal amounts. Although the range of 35,000 dollars to 45,000 dollars also appears to have a higher percentage of sucessful campaigns, it is evident from the table that the total number of campaigns conducted in this range is significantly low (Total Projects Column in Table Outcomes Based on Goals). This makes the data in this region of the graph insignificant to this study.
+
+ To conclude, campaigns with goals under 5000$ are more likely to be successful.    
 
 ### Challenges and Difficulties Encountered
 
-This data set contained several outliers that were skewing the data. Additionally, only the data from January and February was available for the year 2017, which would also affect the calculations as well as the graphs for the analysis done based on Launch date. 
-However, the data set for the year 2017 has data for only the months of January and February, making the data set is incomplete. Therefore, the data for 2017 can be disregarded from the data set.
-
-However, with or without taking 2017 in consideration, the month of May and June have relatively more successful campaigns than failed campaigns. 
+This data set contained several outliers that were skewing the data. Additionally, the data set for the year 2017 has data for only the months of January and February, making the data set is incomplete. Therefore, the data for 2017 can be disregarded from the data set.
 
 ## Results
 
-We found that the outcomes of the campaign do have a correlation with the launch dates of the respective campaigns as well as with the goal amount of the campaigns.  
+It was found that the outcomes of the campaign do have a correlation with the launch dates of the respective campaigns as well as with the goal amount of the campaigns.  
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
