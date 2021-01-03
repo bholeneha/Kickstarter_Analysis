@@ -14,7 +14,7 @@ The [Kickstarter data set](Kickstarter_Challenge.xlsx) used in this analysis con
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Table of Theatre Outcomes Versus Launch Date](/Resources/Extra/Theater_Outcomes_vs_Launch_Table.png) 
+![Table of Theatre Outcomes Versus Launch Date](/Resources/Extra/Theater_Outcomes_vs_Launch_Table.PNG) 
 ![Graph of Theatre Outcomes Versus Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 The table shows May and June have the highest number for successful campaigns. This is visually evident in the graph as well. The graph shows the ratio of successful to failed compaigns is also highest in May and June, almost double the successful campaigns than failed campaigns. Additionally, it can also be concluded that the ratio of successful campaigns to failed campaigns is lowest in the months of October to December than the rest of the year. 
@@ -24,7 +24,7 @@ To conclude, the chances of a theatre campaign being successful is highest in Ma
 
 ### Analysis of Outcomes Based on Goals
 
-![Table of Theatre Outcomes Versus Goals](Resources/Extra/Outcomes_vs_Goals_Table.png)
+![Table of Theatre Outcomes Versus Goals](Resources/Extra/Outcomes_vs_Goals_Table.PNG)
 ![Graph of Theatre Outcomes Versus Goals](Resources/Outcomes_vs_Goals.png)
 
 This graph shows the percentage of successful campaigns in the range of the goal amounts. It is evident from the graph that certain ranges have higher percentage of successful campaigns. The goal amount upto 5000 dollars is most likely to be successful than higher goal amounts. Additionally, the range of 35,000 dollars to 45,000 dollars also appears to have a higher ratio of sucessful campaigns, however, the total number of campaigns conducted in this range is significantly low as evident in the table (total of 9 campaigns). This makes the data in this region of the graph insignificant to this study.   
